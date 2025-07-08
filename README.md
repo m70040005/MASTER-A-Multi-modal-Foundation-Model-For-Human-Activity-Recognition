@@ -1,0 +1,1 @@
+# MASTER-A-Multi-modal-Foundation-Model-For-Human-Activity-Recognition
