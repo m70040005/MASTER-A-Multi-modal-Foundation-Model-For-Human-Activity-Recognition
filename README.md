@@ -2,7 +2,7 @@
 This is a repo for Ubicomp/IMWUT 2025 paper: " <a href="!!!!!our paper link here!!!!!"> MASTER: A Multi-modal Foundation Model For Human Activity Recognition </a>".
 
 # Update timeline
-* [x] 2025.7 Upload our DCM and MSV dataset on <a href="https://osf.io/fbmxy"> OSF </a>".
+* [x] 2025.7 Upload our DCM and MSV dataset on <a href="https://osf.io/fbmxy"> OSF </a>.
 * [x] 2025.7 Upload a simple vision of MASTER which can run on uci dataset
 * [ ] other dataset configs and running example
 * [ ] multi-dataset running example
