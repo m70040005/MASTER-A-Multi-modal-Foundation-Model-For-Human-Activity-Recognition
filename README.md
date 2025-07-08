@@ -2,6 +2,7 @@
 This is a repo for Ubicomp/IMWUT 2025 paper: " <a href="!!!!!our paper link here!!!!!"> MASTER: A Multi-modal Foundation Model For Human Activity Recognition </a>".
 
 # Update timeline
+* [x] 2025.7 Upload our DCM and MSV dataset on <a href="https://osf.io/fbmxy"> OSF </a>".
 * [x] 2025.7 Upload a simple vision of MASTER which can run on uci dataset
 * [ ] other dataset configs and running example
 * [ ] multi-dataset running example
@@ -67,6 +68,7 @@ tqdm 4.66.1
 
 # Quick Start
 * We provide all running related files for the UCI dataset in the initial version of the uploaded code.
+* Due to GitHub file size limitations, the dataset is hosted on OSF. Please download data.zip from https://osf.io/fbmxy and extract it in the root directory before running the code.
 * You can run this to train MASTER by self supervised learning with unlabeled data(80% of all train data):
     ```bash
     python main.py --training_mode s --selected_dataset uci --label_rate 0.2 --seed 123 --device cuda --cuda_no 0 --experiment_description test --run_description uci
