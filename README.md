@@ -105,6 +105,6 @@ so the relevant experiments of the BABEL model in our paper were based on our ow
 # Citation
 The code of this project are made available for non-commercial, academic research only. If you would like to use the code of this project, please cite the following paper:
 ```
-!!!!!our babelcitation here!!!!!
+!!!!!our citation here!!!!!
 ```
     
